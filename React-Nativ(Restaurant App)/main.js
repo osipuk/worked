@@ -28,9 +28,6 @@ var Confirmpay = require('./components/confirm');
 var Trackmyorder = require('./components/trackmyorder');
 var Wallet = require('./components/wallet');
 var Walletfull = require('./components/walletfull');
-var Myorder = require('./components/myorder');
-var Profile = require('./components/profile');
-var Placefold = require('./components/placefold');
 var ROUTES = {
   login: Login,
   behome:Beginhome,
