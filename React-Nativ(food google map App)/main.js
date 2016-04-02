@@ -34,13 +34,7 @@ var ROUTES = {
   deliverto:Deliverto,
   ordersummary:Ordersummary,
   payment:Payment,
-  confirmpay:Confirmpay,
-  trackmyorder:Trackmyorder,
-  wallet:Wallet,
-  walletfull:Walletfull,
-  myorder:Myorder,
-  profile:Profile,
-  placefold:Placefold,
+
 };
 
 module.exports = React.createClass({
