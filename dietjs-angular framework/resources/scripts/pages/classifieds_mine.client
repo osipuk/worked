@@ -1,7 +1,0 @@
-$(function(){
-	$('.ads').imagesLoaded(function(){
-		$('.ads').masonry({
-	  		itemSelector: '.ad'
-		});
-	});
-});

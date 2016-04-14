@@ -1,7 +1,0 @@
-############################################
-## enable rewrites
-
-    Options +FollowSymLinks
-    RewriteEngine off
-    # RewriteEngine on
-
