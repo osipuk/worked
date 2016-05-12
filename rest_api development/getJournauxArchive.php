@@ -15,9 +15,7 @@ $functionObject = new FunctionClass('./');
 if ($username && $password){
 	$member_id = $functionObject->getIdMembre($username, $password);
 }
-else{
-	$member_id = 0;
-}
+
 
 $json = array();
 
